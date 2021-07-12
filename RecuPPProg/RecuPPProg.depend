@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626092609 source:c:\users\pc\desktop\programacion 1\recuppprog\main.c
+	<stdio.h>
+	<stdlib.h>
+
